@@ -68,6 +68,9 @@
   }
   
   @media screen and (max-width: 576px) {
+    .site-name{
+        margin-top: -1rem;
+    }
     #title {
       font-size: x-large;
     }
