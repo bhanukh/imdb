@@ -1,3 +1,5 @@
+//api
+//key= http://www.omdbapi.com/?i=tt3896198&apikey=28a2ff0
 (function () {
   const searchKeyword = document.getElementById("search");
   const suggestionsContainer = document.getElementById("card-container");
