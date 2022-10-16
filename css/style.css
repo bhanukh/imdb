@@ -24,7 +24,7 @@ body{
   }
   #search-bar {
     height: 40px;
-    width: 50vw;
+    width: 45vw;
   }
   form {
     width: inherit;
@@ -70,7 +70,7 @@ body{
   }
   /* main section */
   #main-section {
-    min-height: 89vh;
+    min-height: auto;
     width: 65%;
   }
   
